@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>kriskhaira-css</string>
+	<key>ordering</key>
+	<array>
+		<string>A1627CAE-5E9E-4A43-92C9-9E0520BB1863</string>
+		<string>E6EAFE2C-B204-4CB4-9AD2-D90127283747</string>
+		<string>8A80FF6F-81AE-47D4-9586-1F7E314B4B63</string>
+		<string>75752668-F50B-48FF-AEEA-B9E1D82563D5</string>
+		<string>CDBE59EA-0303-4649-8BCF-3F4070C8F322</string>
+		<string>35C5BF88-989F-47D0-9845-E6022636ABDD</string>
+		<string>A4F04B87-E7B8-4BAC-9F90-FADAF0ED8204</string>
+		<string>4058AD08-E2B0-4AA8-9A12-0F3E5C509471</string>
+		<string>8DAE35D7-D824-4C47-81E6-A2A8E8AFFD62</string>
+		<string>F94FCB18-9FD2-4470-A4B9-676462A4E6D3</string>
+		<string>2111030A-C479-45DD-964C-12450ACE1DDA</string>
+		<string>AB76F76C-6925-4B30-AAA3-FAF52B2B9417</string>
+		<string>25BD8A44-9AF7-4DFB-9ACF-BEC9E4D2A7D5</string>
+	</array>
+	<key>uuid</key>
+	<string>6C1CE823-2EC3-4135-8DD4-BCA04F12B8D5</string>
+</dict>
+</plist>

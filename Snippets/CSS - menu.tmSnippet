@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#main-menu {
+  clear:both; display:block; overflow:hidden;
+  background:#e33938;
+  text-align: right;
+  margin:0;
+}
+  #main-menu li {
+    margin-left: 0;
+    list-style: none;
+    float: left;
+    text-align: right;
+    font-size: 1.7em;
+  }
+
+#main-menu a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding:0.7em 1em;
+  clear:both; display:block; overflow:hidden;
+}
+#main-menu a:hover {
+  color: #4c2e32;
+}</string>
+	<key>name</key>
+	<string>menu</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>menu</string>
+	<key>uuid</key>
+	<string>AB76F76C-6925-4B30-AAA3-FAF52B2B9417</string>
+</dict>
+</plist>
